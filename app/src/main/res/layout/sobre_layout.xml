@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="">
+
+    >
 
     <com.google.android.material.appbar.MaterialToolbar
         android:id="@+id/idToolBar"
@@ -85,7 +86,7 @@
                 android:layout_margin="40dp"
                 android:text="Um App desenvolvido por Douglas Medeiros e Gustavo Henrique. Atribuição da aula de mobile, professor Laercio, iniciada em 28/03/2023"
                 android:textColor="@color/black"
-                android:textSize="18dp"
+                android:textSize="18dp"/>
 
         </LinearLayout>
     </LinearLayout>

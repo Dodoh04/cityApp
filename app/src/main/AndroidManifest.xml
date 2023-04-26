@@ -12,7 +12,13 @@
         android:theme="@style/Theme.CityApp"
         tools:targetApi="31">
         <activity
-            android:name=".TetsActivity"
+            android:name=".ApresentaMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SobreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
