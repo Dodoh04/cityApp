@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">cityApp</string>
     <string name="descricaoLondres">A capital britânica está multiplicando os projetos para oferecer a seus habitantes uma cidade mais fluida e sustentável.</string>
+    <string name="textDaCidade">Entre as cidades inteligentes na Europa, Londres se destaca porque possui um plano de modernização que visa conectar os órgãos e proporcionar uma boa e padronizada qualidade na oferta de serviços públicos. O objetivo é transformar a capital inglesa na cidade mais inteligente do mundo. Desse modo, a governança do município tem uma abordagem interessante: focar em serviços projetados para os usuários, de modo que a tecnologia não seja o fim, mas o meio para melhorar a comodidade dos moradores, conforto dos turistas e condições de emprego de forma geral.</string>
 </resources>
